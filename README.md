@@ -1,4 +1,4 @@
-# crypto-2
+# Izpis-podatkov
 
 > A Vue.js project
 
